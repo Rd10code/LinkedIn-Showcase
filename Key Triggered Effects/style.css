@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center ;
+    height: 100vh;
+}
+h1{
+    transition: 5s ease-out;
+    font-size: 150px;
+    margin: 0;
+}
+div{
+    height: 200px;
+    width: auto;
+    /* border: 8px solid black; */
+}
